@@ -1,0 +1,4 @@
+﻿  Fraction.cpp
+c:\users\astei\source\repos\lab1_2b_do_over\lab1_2b_do_over\fraction.cpp(91): warning C4552: '*': result of expression not used
+c:\users\astei\source\repos\lab1_2b_do_over\lab1_2b_do_over\fraction.cpp(92): warning C4552: '*': result of expression not used
+  Lab1_2B_do_over.vcxproj -> C:\Users\astei\source\repos\Lab1_2B_do_over\Debug\Lab1_2B_do_over.exe
